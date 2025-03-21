@@ -1,3 +1,11 @@
 ## Hi there, I'm Julien 👋
+<a href="https://campus19.be/" target="_blank" rel="noreferrer noopener">
+    <img src="https://cdn.dorik.com/60d9e60019777c001197de7e/629a22a6e91a890012ba18dc/images/19-blanc_yd72cr9s.png" alt="19" height="70">
+</a>
 
-[![My Skills](https://skillicons.dev/icons?i=c,js,typescript,java,react,nextjs,vscode,linux,github,git,postgres,prisma,firebase,nginx,tailwind,bootstrap,nodejs,express,nestjs)](https://skillicons.dev)
+## Contact 📨
+- Mail: [Email me](mailto:julien.hanse12@gmail.com)
+- LinkedIn: [Profile](https://www.linkedin.com/in/julien-hanse-901b41273)
+
+## Skills ⚙️
+[![My Skills](https://skillicons.dev/icons?i=c,js,typescript,java,react,nextjs,vscode,linux,github,git,postgres,prisma,firebase,vercel,tailwind,bootstrap,nodejs,express,nestjs)](https://skillicons.dev)
