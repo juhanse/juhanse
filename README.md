@@ -8,4 +8,4 @@
 - LinkedIn: [Profile](https://www.linkedin.com/in/julien-hanse-901b41273)
 
 ## Skills ⚙️
-[![My Skills](https://skillicons.dev/icons?i=c,js,typescript,react,nextjs,git,postgres,prisma,tailwind,nodejs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,typescript,react,nextjs,nestjs,postgres,prisma,supabase,tailwind,nodejs,git)](https://skillicons.dev)
